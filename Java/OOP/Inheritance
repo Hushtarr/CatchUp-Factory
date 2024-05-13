@@ -1,0 +1,3 @@
+// IF YOU HAVE A METHOD THAT IS NEEDED FOR LET'S SAY 70% OF THE ANIMALS ONLY, THEN YOU NEED INTERFACES, PARENT INHERITANCE DOESN'T WORK FOR THOSE CASES
+
+If you have IntelliJ Ultimate > you can select the classes > right click > diagram > this will create a diagram showing relationships between parent and child classes
